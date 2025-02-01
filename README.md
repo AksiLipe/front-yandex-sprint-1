@@ -1,4 +1,4 @@
-# Проектная работа
+# Проектная работа. Спринт №2
 https://github.com/AksiLipe/front-yandex-sprint-1
 
 # Научиться учиться
